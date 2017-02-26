@@ -7,6 +7,8 @@ The old version (discontinued) can be found at:
   - Source: https://github.com/DCNWS/FuzzLabs
   - Documentation: http://fuzzlabs.dcnws.com
 
+Development of FuzzLabs is extremely slow and currently it is not really production ready. So for now you may want to have a look at the extracted FuzzLabs mutation core (FLMutate) at https://github.com/keymandll/flmutate. It's compatible with both Python 2 and Python 3 and as far as I know it's working as expected. It's also under MIT License so you are free to do whatever you want with it.
+
 ### Why FuzzLabs
 
 Some may ask what is the point having yet another fuzzer when there are such powerful tools as AFL. If you ever asked this question, here you will find the answer: In case you have the source code your best bet probably is AFL. Or, at least you definitely want to give it a go. But, what if there is a product you want to check and you do not have the source code? This mainly happens in two scenarios:
