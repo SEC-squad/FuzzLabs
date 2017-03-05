@@ -1,0 +1,12 @@
+[submodule "fl-engine"]
+	path = fl-engine
+	url = https://github.com/keymandll/fl-engine
+[submodule "fl-client"]
+	path = fl-client
+	url = https://github.com/keymandll/fl-client
+[submodule "fl-interface"]
+	path = fl-interface
+	url = https://github.com/keymandll/fl-interface
+[submodule "fl-mutate"]
+	path = fl-mutate
+	url = https://github.com/keymandll/fl-mutate
