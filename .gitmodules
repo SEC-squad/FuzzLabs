@@ -7,3 +7,6 @@
 [submodule "fl-mutate"]
 	path = fl-mutate
 	url = https://github.com/keymandll/fl-mutate
+[submodule "fl-engine"]
+	path = fl-engine
+	url = https://github.com/keymandll/fl-engine.git
